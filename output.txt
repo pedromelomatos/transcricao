@@ -1,0 +1,29 @@
+testando o nosso transcritor
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+beleza apare
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+temos que mudar algumas
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+som som testando
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+bom vamos ver vou tentar testar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+quem tem novamente para ver
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+OK OK boa
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+testando novamente para ver se o áudio vai cortar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+tá agora ele não cortou vamos ver vou ficar falando
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+pai ainda cortou o que eu tava falando quando eu paro um pouco ele já
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ok tem muita coisa para melhorar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+na minha câmera espera aí
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+tenta capturar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+tudo certo funcionando
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+agora tentando fazer um texto mais robusto, Será que ele tá captando bem e vai, bom pegando captação de áudio pelo visto é interessante, então o projeto que a gente tem para fazer hoje, foi aquele que foi dito antes, o que acha, 
